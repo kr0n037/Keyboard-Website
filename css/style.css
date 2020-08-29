@@ -1,5 +1,5 @@
 body {
-    font-family: serif;
+    font-family: 'Amiri', serif;
     background-color: #787878;
     padding-top: 80px;
 }
@@ -69,11 +69,48 @@ section{
     background-color: #AABED7;
 }
 
-#anchor{
-    scroll-margin-top: 65px;
-}
-
 h3{
     text-align: center;
     border:3px solid #787878
+}
+
+#usersManualNav{
+    max-width: 50%;
+    border: 2px solid #787878;
+    font-size: small;
+    margin-bottom: 0px;
+}
+
+.usersManualHeading{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.sParagraph{
+    text-indent: 2.0em;
+}
+
+.usersManualHeading{
+    padding-top: 70px !important;
+    font-size: x-large;
+}
+
+.website-section{
+    padding-right: 15px;
+    padding-top: 75px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+a{
+    color: #0000FF;
 }
