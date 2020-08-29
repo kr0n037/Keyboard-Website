@@ -87,20 +87,15 @@ h3{
     text-decoration: underline;
     padding: 10px;
     padding-top: 20px;
+    padding-top: 70px !important;
+    font-size: x-large;
 }
 
 .sParagraph{
     text-indent: 2.0em;
 }
 
-.usersManualHeading{
-    padding-top: 70px !important;
-    font-size: x-large;
-}
-
 .website-section{
-    margin-right: 50px;
-    margin-left: 50px;
     padding-top: 75px;
 }
 
